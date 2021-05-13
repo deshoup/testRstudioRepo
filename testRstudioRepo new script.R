@@ -42,3 +42,6 @@
   BMP_health <- rbind(Pre_OK_ctr,Post_OK_ctr,Pre_IA_ctr,Post_IA_ctr,Pre_OK_trt,Post_OK_trt,Pre_IA_trt,Post_IA_trt)
   write.csv(BMP_health, "C:/Users/Dan/Documents/Teaching/Samplg and Modlng Pops/Intro stats R code/BMP_health.csv", row.names=FALSE)
  
+  
+  #test modifying main branch after I protected it at github
+  a=2+2
